@@ -71,13 +71,6 @@ A native Android travel social networking application for location discovery and
 
 ---
 
-### 📊 GitHub Stats
-
-![Tri's GitHub stats](https://github-readme-stats.vercel.app/api?username=tri21723&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tri21723&layout=compact&theme=tokyonight)
-
----
 
 ### 🌐 Connect with Me
 
